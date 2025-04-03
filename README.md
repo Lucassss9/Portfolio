@@ -32,7 +32,6 @@ Este é um projeto simples de *portfólio pessoal*, desenvolvido com *HTML e CSS
 
 ## 🔗 Links
 
-- *Deploy Online:* *(Adicione o link se estiver hospedado)*
 - *LinkedIn:* [Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-0552962ab/)
 - *GitHub:* [Lucassss9](https://github.com/Lucassss9)
 
