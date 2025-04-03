@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(135deg, #6a5acd, #483d8b);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.cartao {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+img {
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+h1 {
+    font-size: 28px;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 400;
+    opacity: 0.8;
+}
+
+.buttons a {
+    display: inline-block;
+    padding: 12px 25px;
+    margin: 10px;
+    background-color: white;
+    color: slateblue;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.buttons a:hover {
+    background-color: lightgray;
+    color: black;
+    transform: scale(1.1);
+}
