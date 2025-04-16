@@ -34,11 +34,3 @@ Este é um projeto simples de *portfólio pessoal*, desenvolvido com *HTML e CSS
 
 - *LinkedIn:* [Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-0552962ab/)
 - *GitHub:* [Lucassss9](https://github.com/Lucassss9)
-
----
-
-## ✨ Melhorias Futuras
-
-- Responsividade para telas menores 📱
-- Animações suaves para interações 🎨
-- Seções adicionais (sobre mim, projetos, contato) 📝
